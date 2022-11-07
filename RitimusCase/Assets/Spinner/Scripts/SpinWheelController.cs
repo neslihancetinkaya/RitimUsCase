@@ -11,13 +11,6 @@ namespace Spinner.Scripts
         private float _speed;
         private float _decSpeed;
         private bool _isSpinning;
-    
-        //get a random degree
-        //get a random float
-        // multiply them or repeattime
-        //dorotate to the degree ?
-        // onComplete choose the reward
-    
 
         private void Update()
         {
